@@ -1,0 +1,75 @@
+{
+"electronics": [
+{
+"id":0,
+"name": "televizor abc",
+"price": 2000,
+"url": "test.abc.ro"
+},
+{
+"id":1,
+"name": "televizor abc",
+"price": 100,
+"url": "test.abc.ro"
+},
+{
+"id":2,
+"name": "televizor abc",
+"price": 200,
+"url": "test.abc.ro"
+},
+{
+"id":3,
+"name": "televizor abc",
+"price": 200,
+"url": "test.abc.ro"
+},
+{
+"id":4,
+"name": "televizor abc",
+"price": 300,
+"url": "test.abc.ro"
+},
+{
+"id":5,
+"name": "televizor abc",
+"price": 300,
+"url": "test.abc.ro"
+},
+{
+"id":6,
+"name": "televizor abc",
+"price": 800,
+"url": "test.abc.ro"
+},
+{
+"id":7,
+"name": "televizor abc",
+"price": 1500,
+"url": "test.abc.ro"
+},
+{
+"id":8,
+"name": "televizor abc",
+"price": 2500,
+"url": "test.abc.ro"
+},
+{
+"id":9,
+"name": "televizor abc",
+"price": 3500,
+"url": "test.abc.ro"
+},
+{
+"id":10,
+"name": "televizor abc",
+"price": 4000,
+"url": "test.abc.ro"
+},
+{
+"id":11,
+"name": "televizor abc",
+"price": 4500,
+"url": "test.abc.ro"
+}
+]}
